@@ -1,0 +1,30 @@
+_repo: Journals-of-Two-Expeditions-of-Discovery-in-North-West-and-Western-Australia-Volume-2_16145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grey, George, Sir
+    birthdate: 1812
+    deathdate: 1898
+    gutenberg_agent_id: '6433'
+    url: http://www.gutenberg.org/2009/agents/6433
+    wikipedia: http://en.wikipedia.org/wiki/George_Edward_Grey
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Western Australia -- Discovery and exploration'
+- !lcsh 'Natural history -- Australia -- Western Australia'
+title: Journals of Two Expeditions of Discovery in North-West and Western Australia,
+  Volume 2
+url: http://www.gutenberg.org/ebooks/16145
