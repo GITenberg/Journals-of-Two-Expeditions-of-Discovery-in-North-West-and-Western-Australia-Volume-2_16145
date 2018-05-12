@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6433
     wikipedia: http://en.wikipedia.org/wiki/George_Edward_Grey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16145#Journals-of-Two-Expeditions-of-Discovery-in-North-West-and-Western-Australia-Volume-2
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-06-29'
 gutenberg_type: Text
